@@ -14,9 +14,9 @@ This below is the output of the program:
 
 | Node   |      Label      |  Pred |
 |:----------:|:-------------:|:------:|
-| S | 0  | S |
-| T |    8   |   Y |
-| X | 9 |    T |
-| Y |    5   |   S |
-| Z | 7 |    Y |
+| s | 0  | s |
+| t |    8   |   y |
+| x | 9 |    t |
+| y |    5   |   s |
+| z | 7 |    y |
  
